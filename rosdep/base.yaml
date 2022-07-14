@@ -838,6 +838,8 @@ dpkg-dev:
   fedora: [dpkg-dev]
   nixos: [dpkg]
   ubuntu: [dpkg-dev]
+drake:
+  ubuntu: [drake-dev]
 dvipng:
   arch: [texlive-bin]
   debian: [dvipng]
